@@ -13,3 +13,6 @@ C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\obj\Debug\net7.0\r
 C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\obj\Debug\net7.0\consoleapp.pdb
 C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\obj\Debug\net7.0\consoleapp.genruntimeconfig.cache
 C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\obj\Debug\net7.0\ref\consoleapp.dll
+C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Sebastian\Desktop\platzi\.net\fundamentos\consoleapp\obj\Debug\net7.0\consoleapp.csproj.CopyComplete
